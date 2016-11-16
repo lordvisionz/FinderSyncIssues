@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{523CB07A-45C0-475C-9B24-EF07A121CA54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinderSync/FinderSync.cs">
+    <Files>
+      <File FileName="FinderSyncIssues/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="FinderSync/FinderSync.cs" Line="27" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinderSyncIssues" expanded="True">
+            <Node name="FinderSync" expanded="True" />
+            <Node name="FinderSyncIssues" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FinderSyncIssues PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

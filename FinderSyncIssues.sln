@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinderSyncIssues", "FinderSyncIssues\FinderSyncIssues.csproj", "{523CB07A-45C0-475C-9B24-EF07A121CA54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinderSync", "FinderSync\FinderSync.csproj", "{85F77DB0-2CEA-4B99-B147-5638937418E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523CB07A-45C0-475C-9B24-EF07A121CA54}.Debug|x86.ActiveCfg = Debug|x86
+		{523CB07A-45C0-475C-9B24-EF07A121CA54}.Debug|x86.Build.0 = Debug|x86
+		{523CB07A-45C0-475C-9B24-EF07A121CA54}.Release|x86.ActiveCfg = Release|x86
+		{523CB07A-45C0-475C-9B24-EF07A121CA54}.Release|x86.Build.0 = Release|x86
+		{85F77DB0-2CEA-4B99-B147-5638937418E0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{85F77DB0-2CEA-4B99-B147-5638937418E0}.Debug|x86.Build.0 = Debug|Any CPU
+		{85F77DB0-2CEA-4B99-B147-5638937418E0}.Release|x86.ActiveCfg = Release|Any CPU
+		{85F77DB0-2CEA-4B99-B147-5638937418E0}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
